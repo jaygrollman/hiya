@@ -1,2 +1,2 @@
 # hiya
-A better walk to chat
+A better way to chat
